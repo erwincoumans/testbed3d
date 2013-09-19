@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "App_OpenGLWindow", "App_OpenGLWindow.vcxproj", "{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "App_OpenGLWindow", "App_OpenGLWindow.vcxproj", "{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Debug|x64 = Debug|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Release|Win32.ActiveCfg = Release|Win32
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Release|Win32.Build.0 = Release|Win32
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Release|x64.ActiveCfg = Release|x64
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Release|x64.Build.0 = Release|x64
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Debug|Win32.ActiveCfg = Debug|Win32
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Debug|Win32.Build.0 = Debug|Win32
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Debug|x64.ActiveCfg = Debug|x64
-		{FC36DF95-BDD3-944A-85C5-AAC1EE7AD74C}.Debug|x64.Build.0 = Debug|x64
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Release|Win32.ActiveCfg = Release|Win32
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Release|Win32.Build.0 = Release|Win32
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Release|x64.ActiveCfg = Release|x64
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Release|x64.Build.0 = Release|x64
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Debug|Win32.Build.0 = Debug|Win32
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Debug|x64.ActiveCfg = Debug|x64
+		{CE7421C5-BBC4-194B-B1E1-218754B4C2BB}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

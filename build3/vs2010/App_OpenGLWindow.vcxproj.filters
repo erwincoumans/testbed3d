@@ -2,31 +2,31 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="btgui">
-      <UniqueIdentifier>{D6140E01-5AC8-F849-B085-54FAD4A902D3}</UniqueIdentifier>
+      <UniqueIdentifier>{1313D323-1AD4-6B46-8E83-9680DDB23BC2}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\OpenGLWindow">
-      <UniqueIdentifier>{DE8C5286-B5A5-FD44-AFA2-98D900D99649}</UniqueIdentifier>
+      <UniqueIdentifier>{F521B251-E9CC-6146-9C17-43BA542DB3EF}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\OpenGLWindow\GlewWindows">
-      <UniqueIdentifier>{13AB476F-5729-1744-AA59-490C281F4077}</UniqueIdentifier>
+      <UniqueIdentifier>{3E96608B-5EC8-5448-91BB-383EFA702D8E}</UniqueIdentifier>
     </Filter>
     <Filter Include="testbed3d">
-      <UniqueIdentifier>{EDAC805C-C4C3-1446-BCC0-5C2ED51DF9E0}</UniqueIdentifier>
+      <UniqueIdentifier>{6C530338-A539-604E-A911-C70297E92417}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\FontFiles">
-      <UniqueIdentifier>{57B1C2E3-C2A0-CF46-9293-C35517ADFB88}</UniqueIdentifier>
+      <UniqueIdentifier>{7923FDF7-0D03-6A4A-AAAC-D045D1AD3501}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\OpenGLTrueTypeFont">
-      <UniqueIdentifier>{B819F3FC-33DC-9B40-9BC4-970B9F0F057B}</UniqueIdentifier>
+      <UniqueIdentifier>{378C795D-58D6-2848-9CC7-C817314B6ED0}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\Bullet3Common">
-      <UniqueIdentifier>{8553172A-5CDD-EF48-B192-BAD03C521195}</UniqueIdentifier>
+      <UniqueIdentifier>{AC452A3F-A0AD-FD4F-9DF4-99440BB073F9}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\Bullet3Common\shared">
-      <UniqueIdentifier>{68A309CB-299E-F94C-942E-C25A3FAF6F70}</UniqueIdentifier>
+      <UniqueIdentifier>{B77FC826-CC2E-5F43-BE8F-3644F18F3B0F}</UniqueIdentifier>
     </Filter>
     <Filter Include="btgui\Timing">
-      <UniqueIdentifier>{9303DBBB-F4DF-2645-BBEC-3D7619829C64}</UniqueIdentifier>
+      <UniqueIdentifier>{F72A4995-5801-A44C-958E-C453261330E1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
